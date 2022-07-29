@@ -1,0 +1,13 @@
+Project=
+ProcessorType=1
+DefaultFindDir=D:\Arsalan\University\Term 4\Computer_Structure\Project\Phase3\Final
+SectorSize=64
+EnablePagedMemory=0
+EnablePaged8bitAddressing=0
+PagedMemoryControlAddress=0
+NumberOfMemoryPages=1
+ProcessorVariant=0
+LoaderType=0
+EnableAutoUpdate=0
+UpdateCount=10000
+Window=8051,isort32.A51,D:\Arsalan\University\Term 4\Computer_Structure\Project\Phase3\Final\isort32.A51,13,20,297,895
